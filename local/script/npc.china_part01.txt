@@ -173,7 +173,7 @@ abbneagh.yvona.4	[1]악보
 abbneagh.yvona.5	[2]음악 도서
 abbneagh.yvona.6	[3]희귀 서적
 abbneagh.yvona.7	이보나의 상점 생성에 실패했습니다.
-abbneagh.yvona.8	피곤한 아 ... | 정말 그런 남자가 있습니다. 이론적으로 무슨 일이 일어나고 있는지 알지만 연락은 깊지 않습니다 ... | 왜 나를 항상 귀찮게합니까? 그리고 자신의 사업이 아니라면, 왜 그렇게 열렬한 아 ...
+abbneagh.yvona.8	힘드네... | 그러고 보니 그런 녀석이 있었지. | 왜 날 귀찮게 하지?
 abbneagh.yvona.9	[0]악기
 abbneagh.yvona.10	[1]악보
 abbneagh.yvona.11	[2]음악 도서
