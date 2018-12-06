@@ -167,12 +167,12 @@ abbneagh.tegau.12	이것은 ~ ~ 또한 하하하를 보낼 수 있습니다.
 abbneagh.tegau.13	아,이게 어디에서 사용되는거야?
 abbneagh.tegau.14	아,이게 어디에서 사용되는거야?
 abbneagh.yvona.1	엘레나 데뷔에 따르면.
-abbneagh.yvona.2	아이린의 상점이 성공적으로 만들어졌습니다.
+abbneagh.yvona.2	이보나의 상점이 성공적으로 만들어졌습니다.
 abbneagh.yvona.3	[0]악기
 abbneagh.yvona.4	[1]악보
 abbneagh.yvona.5	[2]음악 도서
 abbneagh.yvona.6	[3]희귀 서적
-abbneagh.yvona.7	아이린의 가게는 만들지 못했습니다.
+abbneagh.yvona.7	이보나의 상점 생성에 실패했습니다.
 abbneagh.yvona.8	피곤한 아 ... | 정말 그런 남자가 있습니다. 이론적으로 무슨 일이 일어나고 있는지 알지만 연락은 깊지 않습니다 ... | 왜 나를 항상 귀찮게합니까? 그리고 자신의 사업이 아니라면, 왜 그렇게 열렬한 아 ...
 abbneagh.yvona.9	[0]악기
 abbneagh.yvona.10	[1]악보
@@ -330,14 +330,14 @@ abbneagh.yvona.161	엘레나 데뷔에 따르면.
 abbneagh.yvona.162	아이린의 상점이 성공적으로 만들어졌습니다.
 abbneagh.yvona.163	[0]악기
 abbneagh.yvona.164	[1]악보
-abbneagh.yvona.165	[2]음악 도서
-abbneagh.yvona.166	[3]희귀 서적
+abbneagh.yvona.165	[2]음악서적
+abbneagh.yvona.166	[3]희귀서적
 abbneagh.yvona.167	아이린의 가게는 만들지 못했습니다.
 abbneagh.yvona.168	피곤한 아 ... | 정말 그런 남자가 있습니다. 이론적으로 무슨 일이 일어나고 있는지 알지만 연락은 깊지 않습니다 ... | 왜 나를 항상 귀찮게합니까? 그리고 자신의 사업이 아니라면, 왜 그렇게 열렬한 아 ...
 abbneagh.yvona.169	[0]악기
 abbneagh.yvona.170	[1]악보
-abbneagh.yvona.171	[2]음악 도서
-abbneagh.yvona.172	[3]희귀 서적
+abbneagh.yvona.171	[2]음악서적
+abbneagh.yvona.172	[3]희귀서적
 abbneagh.yvona.173	그것은 흥미 롭지 않은 것처럼 보입니다.
 abbneagh.yvona.174	<Npcportrait 이름은='NONE'/><title name='NONE'/>(헬레나는 터치 패널과 고도로 숙련 된 기술 만이 눈 깜짝 할 사이에 실로폰 공격은 그에게 좋은를 만들 <BR/>실로폰.) 음, 나는 예기치 않게 좋은 품질 때문에 <username/>에이 악기를주고 싶지 않았습니다. <p/>그러나 이것은 제가 여러분을 위해 만든 도구이거나 그것을 여러분에게줍니다. 제발 더 신경 써주세요.
 abbneagh.yvona.175	실로폰을 다.
@@ -1764,13 +1764,13 @@ bangor.edern.184	지하 도시 패스를 분실 한 것 같습니다. 이 새로
 bangor.elen.1	에이렌이 로그인했습니다.
 bangor.elen.2	에이렌의 상점 생성에 성공했습니다.
 bangor.elen.3	[0]무기
-bangor.elen.4	[1]구두 글로브
+bangor.elen.4	[1]신발 장갑
 bangor.elen.5	[2]투구
 bangor.elen.6	[3]갑옷
 bangor.elen.7	에이렌의 상점 생성에 실패했습니다.
 bangor.elen.8	몇번 있고 느낌의 사내 아이가 있는…|대장간의 일에 흥미가 있는 거야? |할아버지에게라도 지지 않기 때문에! |아직 일이 남아 있어 네~|수리보다 만드는 편이 편한 것이야 네|이 세상에 공짜 같은거 아리에나이! |오늘은, 조금 조용한 분이나 나…|뭔가 좋은 일 없을까~|할아버지는 걱정만 해…|어머니는 아가씨를 완전하게 방치해 있고…|나에게 반했는지 나?
 bangor.elen.9	[0]무기
-bangor.elen.10	[1]구두 글로브
+bangor.elen.10	[1]신발 장갑
 bangor.elen.11	[2]투구
 bangor.elen.12	[3]갑옷
 bangor.elen.13	<npcportrait name='NONE'/><title name='NONE'/>얼굴이 숨지 않도록, 붉은 헤어 밴드를 한 아름다운 금발이, 등을 숨길 정도 성장해 흔들리고 있다. <br/>반짝반짝 빛나는 진한 선명한 녹색의 눈동자와 딱딱하게 닫고 포동포동 한 입술을 가지는 작은 얼굴에는, 호기심 풍부한 표정을 간파할 수 있다. <br/>대장장이장의 열기이기 때문에 간소한 옷을 걸쳐입고 있을 뿐의 그녀의 상체는 탄탄하고 있어<br/>싱거운 밀크티─색의 썬탠을 하고 있어 건강한 아름다움이 눈부시다. <button title='계속한다' keyword='@continue'/>
